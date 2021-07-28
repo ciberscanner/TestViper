@@ -23,3 +23,5 @@ Register: Para el registro de usuarios
 Home: Vista que permite ver todos los intentos de inicio de sesion 
 
 Cuenta con las validaciones de correos y contraseñas, uso de almacenamiento en sqlite (usuarios y accesos) y en preferencias (informacion de la app)
+
+Tambien hace llamado a la API solicitada y uso de la localizacion del usuario
